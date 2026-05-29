@@ -1,17 +1,17 @@
 import { ExperienceItem, ProjectItem, ContactInfo } from './types';
 
 export const contactInfo: ContactInfo = {
-  email: 'xinweifan.f@gmail.com',
-  linkedin: 'https://linkedin.com/in/xinwei-fan-dev',
-  github: 'https://github.com/xinweifan',
-  location: 'San Francisco, CA (Open to Remote)'
+  email: 'x28fan@uwaterloo.ca',
+  linkedin: 'https://www.linkedin.com/in/florence-fan-417066349/',
+  github: 'https://github.com/FlorenceF2006',
+  location: 'Waterloo, ON, Canada (Open to Remote)'
 };
 
 export const bioData = {
   name: 'Xinwei Fan',
   title: 'Systems Architect & Creative Technologist',
   tagline: 'Building elegant, high-performance web applications and compiler playgrounds.',
-  about: `I am a software engineer focused on building robust full-stack applications with exceptional user experiences. I specialize in the TypeScript ecosystem, compiling compilers in the sandbox, interactive graphics, and modular state management workflows. My philosophy is that the browser is an open platform for rich, desktop-grade utilities, and every byte of code should serve to make applications faster, cleaner, and deeply intuitive.`
+  about: `I am a senior student majored in Bachelor of Computer Science at University of Waterloo. I am passionate about machine learning, artificial intelligence, data science, and data analysis. I enjoy combining programming, analytical thinking, and technology to explore how intelligent systems and data-driven approaches can be applied to real-world challenges.I believe artificial intelligence is not simply about automation, but about expanding the ways humans can understand information, solve problems, and interact with technology. My interest lies in building systems that combine strong technical foundations with practical usability, where data-driven insights and intelligent models can create tools that are both powerful and intuitive.`
 };
 
 export const experiences: ExperienceItem[] = [
